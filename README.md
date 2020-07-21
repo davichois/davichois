@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hola%20que tal !!%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hola%20quetal!!%20👋&fontSize=90)
 
 ## Hola que tal!! Yo soy DAVID PRADA LINAREZ
 
