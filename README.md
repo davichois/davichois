@@ -2,10 +2,8 @@
 
 ## Hola que tal!! Yo soy DAVID PRADA LINAREZ
 
-- :mortar_board: college student
-- 🌱 learning Web full stack
-- 🤔 looking for open source to contribute
-- :video_game: making a game as a hobby
+- 🌱 Programador Backend.
+- :video_game: Mi pasion jugar videojuegos y algun dia poder crearlos.
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
