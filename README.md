@@ -2,8 +2,7 @@
 
 ## Hola que tal!! Yo soy DAVID PRADA LINAREZ
 
-- 🌱 Programador Backend.
-- :video_game: Mi pasion jugar videojuegos y algun dia poder crearlos.
+- 🌱 Programador Backend con NodeJs.
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
